@@ -4,7 +4,9 @@ This project aims to detect fake news articles using machine learning techniques
 
 ## Dataset
 
-The project utilizes a kaggle dataset. The dataset can be found here: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets. The dataset consists of two CSV files -- Fake.csv and True.csv. Each article contains the following information: article title, text, subject and the date the article was published on. The data collected were cleaned and processed, however, the punctuations and mistakes that existed in the fake news were kept in the text.
+The project utilizes a kaggle dataset. The dataset can be found here: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets. 
+
+The dataset consists of two CSV files -- Fake.csv and True.csv. Each article contains the following information: article title, text, subject and the date the article was published on. The data collected were cleaned and processed, however, the punctuations and mistakes that existed in the fake news were kept in the text.
 The data preprocessing steps involve, lowercasing, tokenization, removing of stop words, and stemming or lemmatizing the text.
 
 ## Project Structure
