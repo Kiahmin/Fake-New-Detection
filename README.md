@@ -11,6 +11,7 @@ The data preprocessing steps involve, lowercasing, tokenization, removing of sto
 
 ## Project Structure
 data/: Contains the dataset files (True.csv, Fake.csv).
+
 main.ipynb: Jupyter notebook containing the entire code for preprocessing, model training, and evaluation.
 
 ## Model Development
